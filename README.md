@@ -17,7 +17,7 @@ This tool requires Python 3.
    cd CMD-python-port-scanner-
 2. **Make the script executable:**
        ```bash
-       chmod +x full_scan.py
+       chmod +x cmd_full_scan.py
        ```
 
     ## Usage
@@ -25,7 +25,7 @@ This tool requires Python 3.
     Run the script directly and enter the target IP when prompted.
 
     ```bash
-    ./full_scan.py
+    ./cmd_full_scan.py
     ```
 
     ## Example Output
